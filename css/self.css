@@ -8,14 +8,15 @@
 }
 
 @font-face {
-    font-family: 'tzy';
+    font-family: 'gqh';
     /* 字体名自定义即可 */
-    src: url('https://fastly.jsdelivr.net/gh/007Maybe/BLOG_SOURCE/font/font.woff2');
+    src: url('http://rg6wdl1jz.hb-bkt.clouddn.com/ZhuZiAWan.ttf');
+    /*src: url('https://npm.elemecdn.com/tzy-blog/lib/font/ZhuZiAWan.ttf');*/
     /* 字体文件路径 */
     font-display: swap;
 }
 
 body,
 .gitcalendar {
-    font-family: tzy !important;
+    font-family: gqh !important;
 }
