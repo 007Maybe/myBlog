@@ -10,7 +10,7 @@
 @font-face {
     font-family: 'tzy';
     /* 字体名自定义即可 */
-    src: url('./font/font.woff2') format('woff2');
+    src: url('https://fastly.jsdelivr.net/gh/007Maybe/BLOG_SOURCE/font/font.woff2');
     /* 字体文件路径 */
     font-display: swap;
 }
