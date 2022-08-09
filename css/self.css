@@ -38,37 +38,3 @@ body,
 .gitcalendar {
     font-family: gqh !important;
 }
-
-
-
-/* 导航栏横向下拉子菜单 */
-#nav .menus_items .menus_item .menus_item_child li {
-    display: inline-block;
-}
-
-/* 圆角隐藏 */
-ul.menus_item_child {
-    overflow: hidden;
-    border-radius: 5px;
-}
-
-/* 调整空隙，确保不会天下武功唯快不破 */
-#nav .menus_items .menus_item .menus_item_child {
-    margin-top: 0px !important;
-}
-
-
-/* 导航栏居中放置 */
-#navFn {
-    flex: 1;
-    text-align: right;
-}
-
-#nav #search-button {
-    display: inline;
-    padding: 0 0 0 0.3rem;
-    position: relative;
-    padding-bottom: 0.3rem;
-    text-shadow: 0.05rem 0.05rem 0.1rem rgb(0 0 0 / 30%);
-    cursor: pointer;
-}
