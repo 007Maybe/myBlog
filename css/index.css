@@ -5444,7 +5444,7 @@ blockquote.pullquote.right {
   --tab-botton-color: rgba(255,255,255,0.7);
   --tab-button-hover-bg: #383838;
   --tab-button-active-bg: #121212;
-  --card-bg: #121212;
+  --card-bg: rgba(12,12,12,0.6);
   --sidebar-bg: #121212;
   --btn-hover-color: #787878;
   --btn-color: rgba(255,255,255,0.7);
@@ -5472,7 +5472,7 @@ blockquote.pullquote.right {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.7);
+  background-color: rgba(0,0,0,0.5);
   content: '';
 }
 [data-theme='dark'] #article-container code {
