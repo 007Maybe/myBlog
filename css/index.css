@@ -5620,6 +5620,9 @@ blockquote.pullquote.right {
 .read-mode #page-header.post-bg > #post-info {
   text-align: center;
 }
+.read-mode #recent-posts {
+  margin: 0 auto;
+}
 .read-mode #post {
   margin: 0 auto;
   background: transparent;
