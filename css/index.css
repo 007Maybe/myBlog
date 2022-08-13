@@ -4096,6 +4096,7 @@ blockquote footer cite:before {
 }
 #article-container.post-content h1:before {
   margin-left: -1.2rem;
+  margin-top: -0.2rem;
   font-size: 1rem;
 }
 #article-container.post-content h1:hover {
@@ -4109,6 +4110,7 @@ blockquote footer cite:before {
 }
 #article-container.post-content h2:before {
   margin-left: -1.1rem;
+  margin-top: -0.2rem;
   font-size: 0.9rem;
 }
 #article-container.post-content h2:hover {
@@ -4122,6 +4124,7 @@ blockquote footer cite:before {
 }
 #article-container.post-content h3:before {
   margin-left: -1rem;
+  margin-top: -0.2rem;
   font-size: 0.8rem;
 }
 #article-container.post-content h3:hover {
@@ -4135,6 +4138,7 @@ blockquote footer cite:before {
 }
 #article-container.post-content h4:before {
   margin-left: -0.9rem;
+  margin-top: -0.2rem;
   font-size: 0.7rem;
 }
 #article-container.post-content h4:hover {
@@ -4148,6 +4152,7 @@ blockquote footer cite:before {
 }
 #article-container.post-content h5:before {
   margin-left: -0.8rem;
+  margin-top: -0.2rem;
   font-size: 0.6rem;
 }
 #article-container.post-content h5:hover {
@@ -4161,6 +4166,7 @@ blockquote footer cite:before {
 }
 #article-container.post-content h6:before {
   margin-left: -0.8rem;
+  margin-top: -0.2rem;
   font-size: 0.6rem;
 }
 #article-container.post-content h6:hover {
