@@ -1,4 +1,4 @@
-try { if (document.getElementById('weibo').clientWidth) weibo(); } catch (error) {}
+try { if (document.getElementById('weibo').clientWidth) weibo(); } catch (error) { }
 
 function weibo() {
     let hotness = {
