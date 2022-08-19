@@ -48,7 +48,7 @@ rmf.copySelect = function () {
     //这里可以写点东西提示一下 已复制
 }
 
-//回到顶部
+//回到首页
 rmf.goHome = function () {
     // btf.scrollToDest(0, 500);
     window.location.href = window.location.origin;
