@@ -13,9 +13,7 @@
       
       <categories>
           
-          <category> Android </category>
-          
-          <category> 大三课程记录 </category>
+          <category> 大学 </category>
           
       </categories>
       
@@ -23,6 +21,8 @@
         <tags>
             
             <tag> Android </tag>
+            
+            <tag> 大三Android科目 </tag>
             
         </tags>
       
