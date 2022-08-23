@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Studio详细安装教程（更新中！）</title>
+      <link href="/blogs/article22807/"/>
+      <url>/blogs/article22807/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本帖结合群内老师的视频文件一起食用，我的安装过程和老师的有些许不同，因为我们没有现成的Android文件，所以我们只能自己去创建。本帖安装过程，亲测可以成功运行并输出Hello World！</p><div class="tip warning faa-horizontal animated"><p>可全程按照本帖的安装过程操作，出现的任何问题可以在评论区留言，在空闲期间，我会第一时间主动联系你。</p></div><h2 id="Android-Studio安装教程"><a href="#Android-Studio安装教程" class="headerlink" title="Android Studio安装教程"></a>Android Studio安装教程</h2><ol><li><p>在群内下载并打开老师发的安装包</p><p><img src="https://bu.dusays.com/2022/08/23/6304c08b16b12.png" alt=""></p></li><li><p>接下来按照如下步骤安装</p><p>勾选Android Virtual Device，点击Next</p><p><img src="https://bu.dusays.com/2022/08/23/6304c08cc609e.png" alt=""></p><p><img src="https://bu.dusays.com/2022/08/23/6304c08d8c645.png" alt=""></p><p><img src="https://bu.dusays.com/2022/08/23/6304c08e61ec9.png" alt=""></p><p>等待安装完成</p><p><img src="https://bu.dusays.com/2022/08/23/6304c08f75655.png" alt=""></p><p>默认勾选Start Android Studio，点击Finish运行</p></li></ol><p>   <img src="https://bu.dusays.com/2022/08/23/6304c334d349c.png" alt=""></p><p>   选择Do not import settings，点ok</p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c090db530.png" alt=""></p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c0919f232.png" alt=""></p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07a5ef24.png" alt=""></p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07a6eb86.png" alt=""></p><p>   选择Standard并点击Next</p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07b249c8.png" alt=""></p><p>   选择主题背景,默认为白色，点击Next</p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07c04009.png" alt=""></p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07ca5929.png" alt=""></p><p>   接下来就是漫长的等待，等待的时间取决于你的网络环境</p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07d58413.png" alt=""></p><p>   然后点击Finish</p><p>   <img src="https://bu.dusays.com/2022/08/23/6304c07e2400b.png" alt=""></p><ol><li><p>创建一个新的Hello World程序！</p><p><img src="https://bu.dusays.com/2022/08/23/6304c07ed080a.png" alt=""></p><p>选择Empty Activity，点击Next，这里需要等一会，会卡住一会，不用慌</p><p><img src="https://bu.dusays.com/2022/08/23/6304c07f7b9d1.png" alt=""></p><p>按自己的需求去修改，完成后点击finish</p><p><img src="https://bu.dusays.com/2022/08/23/6304cc43b90c2.png" alt=""></p><p>然后等待项目构建完成。这里由于是第一次启动，所以需要下载gradle以及Android项目需要引用的包，等待的时间取决于你的网络环境</p><p><img src="https://bu.dusays.com/2022/08/23/6304c0826886d.png" alt=""></p><p>中途会弹出如下图，点击允许访问</p><p><img src="https://bu.dusays.com/2022/08/23/6304c081c280f.png" alt=""></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+          <category> 大三课程记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Butterfly主题美化合集</title>
       <link href="/blogs/article22806/"/>
       <url>/blogs/article22806/</url>
