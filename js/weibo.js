@@ -31,7 +31,7 @@ function weibo() {
 }
 
 function getData() {
-    fetch('https://weibo-api-lemon.vercel.app/api').then(data => data.json()).then(data => {
+    fetch('https://weibo.gqh2002.cn/api').then(data => data.json()).then(data => {
         data = { time: Date.now(), ls: JSON.stringify(data) }
         localStorage.setItem('weibo', JSON.stringify(data))
     }).then(weibo);
