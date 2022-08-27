@@ -27,7 +27,7 @@
  @font-face {
      font-family: 'gqh';
      /* 字体名自定义即可 */
-     src: url('https://blog-source-cyan.vercel.app/font/global.woff2');
+     src: url('https://source.gqh2002.cn/font/global.woff2');
      /* 字体文件路径 */
      font-display: swap;
  }
